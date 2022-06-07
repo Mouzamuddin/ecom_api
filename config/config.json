@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Mouzam@sql",
+    "database": "Ecommerce_API",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Mouzam@sql",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "sql6498261",
+    "password": "Mouzam@sql",
+    "database": "dq19VrpnSl",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
